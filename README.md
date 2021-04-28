@@ -19,3 +19,6 @@ Make sure to use this extension, https://chrome.google.com/webstore/detail/injec
 5. Save
 
 Open the site and enjoy
+
+**NOTE**
+if you don't see the meta-field card, try to refresh page
